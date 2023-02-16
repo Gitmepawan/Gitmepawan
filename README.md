@@ -1,16 +1,34 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97752074/219414079-b56f2139-4dd6-415e-b7a4-bc556c51f8e7.png" height="50" alt="Rocket ship taking off">
+</p>
 
-<!--
-**Gitmepawan/Gitmepawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there, I'm Pawan Pandeya 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a web-developer and motion Designer!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97752074/219414217-700918d4-1c27-447a-b36a-00e3698e72d0.jpg" height="300" alt="my image">
+</p>
+
+
+
+🔭 I’m currently working on Roku App project, using node, express and Vue.
+
+🌱 I’m currently learning more about Node and Its packages.
+
+👀 Check out some of my recent projects below!
+
+Connect with me:
+[LinkedIn](https://www.linkedin.com/in/pawan-pandeya-9aa789235/) | [Portfolio](pawan-pandeya.ca)
+
+![Profile views](https://komarev.com/ghpvc/?username=Gitmepawan&color=brightgreen)
+
+![HTML](https://img.shields.io/badge/-HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+
+
 -->
