@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97752074/219436069-9c0b6949-816c-4a51-b452-69b58dca2fa1.jpg" height="50" alt="Rocket ship taking off">
+  <img src="https://user-images.githubusercontent.com/97752074/219414079-b56f2139-4dd6-415e-b7a4-bc556c51f8e7.png" height="50" alt="Rocket ship taking off">
 </p>
 
 
@@ -7,7 +7,7 @@
 
 I'm a web-developer and motion Designer!
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97752074/219414217-700918d4-1c27-447a-b36a-00e3698e72d0.jpg" height="500" alt="my image">
+  <img src="https://user-images.githubusercontent.com/97752074/219436069-9c0b6949-816c-4a51-b452-69b58dca2fa1.jpg" height="500" alt="my image">
 </p>
 
 
