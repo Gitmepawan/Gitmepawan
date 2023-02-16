@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://github.com/pawanpandeya/raw/main/images/rocket-ship.svg" width="200" height="200" alt="Rocket ship taking off">
+  <img src="https://user-images.githubusercontent.com/97752074/219414079-b56f2139-4dd6-415e-b7a4-bc556c51f8e7.png" height="200" alt="Rocket ship taking off">
 </p>
 
 
 ### Hi there, I'm Pawan Pandeya 👋
 
-I'm a web-developer and motion designer. 
+I'm a web-developer and motion Designer!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97752074/219414217-700918d4-1c27-447a-b36a-00e3698e72d0.jpg" height="200" alt="my image">
+</p>
+
+
 
 🔭 I’m currently working on Roku App project, using node, express and Vue.
 
@@ -24,12 +29,6 @@ Connect with me:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p align="center">
-  <svg width="100" height="100">
-    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="none" />
-    <animate attributeName="stroke-dasharray" from="0,251.3" to="251.3,0" dur="2s" repeatCount="indefinite" />
-    <animate attributeName="stroke-dashoffset" from="0" to="251.3" dur="2s" repeatCount="indefinite" />
-  </svg>
-</p>
+
 
 -->
