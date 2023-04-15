@@ -21,7 +21,7 @@ I'm a web-developer and motion Designer!
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/pawan-pandeya-9aa789235/) | 
 
-[Portfolio](pawan-pandeya.ca)
+[Portfolio](https://pawan-pandeya.ca)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gitmepawan&color=brightgreen)
 
