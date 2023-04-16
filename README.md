@@ -1,6 +1,3 @@
-<p align="center">
-  ![linkedin img](https://user-images.githubusercontent.com/97752074/232329856-a54228b4-1cee-4b6f-a932-90801e35a22a.jpg)
-</p>
 
 
 
