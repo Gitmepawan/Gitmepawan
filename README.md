@@ -5,12 +5,12 @@
 
 I'm a web-developer and motion Designer!
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97752074/219436069-9c0b6949-816c-4a51-b452-69b58dca2fa1.jpg" height="500" alt="my image">
+  <img src="(https://user-images.githubusercontent.com/97752074/232329931-aa7dbe98-db05-42c1-bb34-4dd6c08e5ffd.jpg" height="500" alt="my image">
 </p>
 
 
 
-🔭 I’m currently working on Roku App project, using node, express and Vue.
+🔭 I’m currently working on Roku App project, using node, expresand Vue.
 
 🌱 I’m currently learning more about Node and Its packages.
 
