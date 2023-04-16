@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97752074/219414079-b56f2139-4dd6-415e-b7a4-bc556c51f8e7.png" height="50" alt="Rocket ship taking off">
+  ![linkedin img](https://user-images.githubusercontent.com/97752074/232329856-a54228b4-1cee-4b6f-a932-90801e35a22a.jpg)
 </p>
+
 
 
 ### Hi there, I'm Pawan Pandeya 👋
