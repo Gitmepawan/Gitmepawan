@@ -4,9 +4,6 @@
 ### Hi there, I'm Pawan Pandeya 👋
 
 I'm a web-developer and motion Designer!
-<p align="center">
-  <img src="(https://user-images.githubusercontent.com/97752074/232329976-81a624b6-e4fe-4264-9a9e-dab0551b9ff8.jpg" height="500" alt="my image">
-</p>
 
 
 
